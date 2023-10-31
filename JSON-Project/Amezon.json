@@ -1,0 +1,188 @@
+{
+    "categories": {
+      "Mobile": [
+        {
+          "product_id": "12345",
+          "title": "OnePlus 11 5G (Titan Black, 16GB RAM, 256GB Storage)",
+          "description": "High-performance mobile phone with a stunning 6.7-inch display and advanced features.",
+          "price": 61999,
+          "original_price": 61999,
+          "Currency" : "INR",
+          "image_urls": [
+            "images/OnePlus/OnePlus1.jpg",
+            "images/OnePlus/OnePlus2.jpg"
+          ],
+          "buy_link": "https://www.amazon.in/OnePlus-Titan-Black-256GB-Storage/dp/B0BQJLVSC2/ref=sr_1_1_sspa?crid=2J4M4JPCOGWIP&keywords=OnePlus%2B11%2B5G%2B(Titan%2BBlack%2C%2B16GB%2BRAM%2C%2B256GB%2BStorage)&nsdOptOutParam=true&qid=1698739596&sprefix=oneplus%2B11%2B5g%2Btitan%2Bblack%2C%2B16gb%2Bram%2C%2B256gb%2Bstorage%2B%2Caps%2C257&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1",
+          "availability": "In stock",
+          "ratings": {
+            "average_rating": 4.3,
+            "total_ratings": 4432
+          },
+          "features": [
+            "50MP Main Camera with Sony IMX890 (OIS supported)",
+            "48MP Ultrawide Camera with Sony IMX581",
+            "32MP Telephoto lens with Sony IMX709 (2X Optical Zoom)",
+            "6.7-inch 120 Hz AMOLED QHD Display",
+            "Snapdragon 8 Gen 2 Mobile Platform",
+            "16GB LPDDR5X RAM",
+            "256GB UFS4.0 Storage",
+            "5000 mAh Battery with 100W SUPERVOOC",
+            "In-Display Fingerprint Sensor"
+          ],
+          "reviews": [
+            {
+              "user": "User123",
+              "rating": 4,
+              "comment": "Good mobile product with an excellent camera.",
+              "date": "2023-10-31"
+            },
+            {
+              "user": "User456",
+              "rating": 5,
+              "comment": "Outstanding performance and build quality!",
+              "date": "2023-10-30"
+            }
+          ]
+        },
+        {
+          "product_id": "67890",
+          "title": "Samsung Galaxy S23 5G (Lavender, 8GB, 256GB Storage)",
+          "description": "Powerful mobile phone with an innovative camera system and eco-friendly design.",
+          "price": 78999,
+          "original_price": 95999,
+          "Currency" : "INR",
+          "image_urls": [
+            "images/Samsung/Samsung1.jpg",
+            "images/Samsung/Samsung2.jpg"
+          ],
+          "buy_link": "https://www.amazon.in/Samsung-Galaxy-Lavender-256GB-Storage/dp/B0BRSL2XWP/ref=sr_1_2?crid=130AXO7F0M435&keywords=Samsung%2BGalaxy%2BS23%2B5G%2B(Lavender%2C%2B8GB%2C%2B256GB%2BStorage&nsdOptOutParam=true&qid=1698740089&sprefix=samsung%2Bgalaxy%2Bs23%2B5g%2Blavender%2C%2B8gb%2C%2B256gb%2Bstorage%2Caps%2C322&sr=8-2&th=1",
+          "availability": "In stock",
+          "ratings": {
+            "average_rating": 4.4,
+            "total_ratings": 982
+          },
+          "features": [
+            "More light for night photography",
+            "Eco-friendly design with recycled materials",
+            "Snapdragon 8 Gen 2 Mobile Platform",
+            "5G and 4G LTE Cellular Technology"
+          ],
+          "reviews": [
+            {
+              "user": "User789",
+              "rating": 4,
+              "comment": "Impressive camera performance in low light.",
+              "date": "2023-10-31"
+            },
+            {
+              "user": "User101",
+              "rating": 5,
+              "comment": "Eco-friendly and powerful mobile phone.",
+              "date": "2023-10-30"
+            }
+          ]
+        }
+      ],
+      "Fashion": [
+        {
+          "product_id": "6789",
+          "title": "Campus Sutra Men's Button Up Spread Collar Shirt for Casual Wear",
+          "description": "Stay stylish with this comfortable and fashionable checkered shirt.",
+          "price": 824,
+          "original_price": 1499,
+          "Currency" : "INR",
+          "image_urls": [
+            "images/CampusShirt/CampusShirt1.jpg",
+            "images/CampusShirt/CampusShirt2.jpg"
+          ],
+          "buy_link": "https://www.amazon.in/Campus-Sutra-Textured-High-Performance-Everyday/dp/B0C7W6THH6/ref=sr_1_6?crid=2XRMMAW3N5MDK&keywords=Roadster+Men+Regular+Fit+Checkered+Spread+Collar+Casual+Shirt&nsdOptOutParam=true&qid=1698740201&sprefix=samsung+galaxy+s23+5g+lavender%2C+8gb%2C+256gb+storage%2Caps%2C223&sr=8-6",
+          "availability": "In stock",
+          "ratings": {
+            "average_rating": 4.1,
+            "total_ratings": 403
+          },
+          "size": ["38", "40", "44", "46"],
+          "reviews": [
+            {
+              "user": "User1",
+              "rating": 5,
+              "comment": "Great shirt! Fits perfectly.",
+              "date": "2023-10-31"
+            },
+            {
+              "user": "User2",
+              "rating": 4,
+              "comment": "Good quality fabric and stylish design.",
+              "date": "2023-10-30"
+            }
+          ]
+        }
+      ],
+      "TVs": [
+        {
+          "product_id": "101",
+          "title": "SAMSUNG Crystal Vision 4K iSmart with Voice Assistant 138 cm (55 inch) Ultra HD (4K) LED Smart Tizen TV 2023 Edition (UA55CUE70AKLXL)",
+          "description": "Experience 4K Ultra HD with this smart TV featuring video calling and IOT sensors for light and camera control.",
+          "price": 43890,
+          "original_price": 64900,
+          "Currency" : "INR",
+          "image_urls": [
+            "images/SamsungTV/SamsungTV1.jpg",
+            "images/SamsungTV/SamsungTV2.jpg",
+            "images/SamsungTV/SamsungTV3.jpg"
+          ],
+          "buy_link": "https://www.amazon.in/Samsung-inches-Crystal-iSmart-UA55CUE60AKLXL/dp/B0C1GYTFXY?th=1",
+          "availability": "In stock",
+          "ratings": {
+            "average_rating": 4.4,
+            "total_ratings": 33963
+          },
+          "reviews": {
+            "5 star": 22053,
+            "4 star": 7363,
+            "3 star": 1612,
+            "2 star": 530,
+            "1 star": 2405
+          },
+          "features": {
+            "Picture": 4.4,
+            "Sound": 3.9,
+            "Connectivity": 4.2,
+            "Delivery & Installation": 4.4
+          }
+        },
+        {
+          "product_id": "102",
+          "title": "LG UR7500 108 cm (43 inch) Ultra HD (4K) LED Smart WebOS TV 2023 Edition with a5 AI Processor 4K Gen6 and 60Hz Refresh Rate, Magic remote capability (43UR7500PSC)",
+          "description": "Enjoy 4K Ultra HD entertainment with this LG smart TV featuring advanced AI processing and a 60Hz refresh rate.",
+          "price": 28990,
+          "original_price": 49990,
+          "Currency" : "INR",
+          "image_urls": [
+            "images/LGTV/LGTV1.jpeg.webp",
+            "images/LGTV/LGTV2.jpeg.webp",
+            "images/LGTV/LGTV3.jpeg.webp"
+          ],
+          "buy_link": "https://www.amazon.in/LG-inches-Ultra-43UQ7500PSF-Ceramic/dp/B0B3XY5YT4/ref=sr_1_2?crid=118LQS85W3ZTI&keywords=LG%2BUR7500%2B108%2Bcm%2B(43%2Binch)%2BUltra%2BHD%2B(4K)%2BLED%2BSmart%2BWebOS%2BTV%2B2023%2BEdition%2Bwith%2Ba5%2BAI%2BProcessor%2B4K%2BGen6%2Band%2B60Hz%2BRefresh%2BRate%2C%2BMagic%2Bremote%2Bcapability%2B(43UR7500PSC&nsdOptOutParam=true&qid=1698740554&sprefix=lg%2Bur7500%2B108%2Bcm%2B43%2Binch%2Bultra%2Bhd%2B4k%2Bled%2Bsmart%2Bwebos%2Btv%2B2023%2Bedition%2Bwith%2Ba5%2Bai%2Bprocessor%2B4k%2Bgen6%2Band%2B60hz%2Brefresh%2Brate%2C%2Bmagic%2Bremote%2Bcapability%2B43ur7500psc%2Caps%2C281&sr=8-2&th=1",
+          "availability": "In stock",
+          "ratings": {
+            "average_rating": 4.4,
+            "total_ratings": 21277
+          },
+          "reviews": {
+            "5 star": 14057,
+            "4 star": 4749,
+            "3 star": 970,
+            "2 star": 322,
+            "1 star": 1179
+          },
+          "features": {
+            "Picture": 4.4,
+            "Sound": 4.2,
+            "Connectivity": 4.3
+          }
+        }
+      ]
+    }
+  }
+  

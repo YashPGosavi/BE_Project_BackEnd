@@ -1,0 +1,187 @@
+{
+  "categories": {
+    "Mobile": [
+      {
+        "product_id": "12345",
+        "title": "OnePlus 11 5G (Titan Black, 16GB RAM, 256GB Storage)",
+        "description": "High-performance mobile phone with a stunning 6.7-inch display and advanced features.",
+        "price": 58990,
+        "original_price": 61999,
+        "Currency" : "INR",
+        "image_urls": [
+          "images/OnePlus/OnePlus1.jpg",
+          "images/OnePlus/OnePlus2.jpg"
+        ],
+        "buy_link": "https://www.flipkart.com/oneplus-11-5g-titan-black-256-gb/p/itm668119d115289?pid=MOBGMUH476DXG3ZY&lid=LSTMOBGMUH476DXG3ZYUUAN8M&marketplace=FLIPKART&q=OnePlus+11+5G+%28Titan+Black%2C+16GB+RAM%2C+256GB+Storage%29&store=tyy%2F4io&srno=s_1_1&otracker=search&otracker1=search&fm=organic&iid=f0624aa6-8095-4529-a716-5c5ecf86d9a4.MOBGMUH476DXG3ZY.SEARCH&ppt=pp&ppn=pp&ssid=17k4n4lln51e3i0w1698740773573&qH=f42629427a9f5c53",
+        "availability": "In stock",
+        "ratings": {
+          "average_rating": 4.0,
+          "total_ratings": 5242
+        },
+        "features": [
+          "50MP Main Camera with Sony IMX890 (OIS supported)",
+          "48MP Ultrawide Camera with Sony IMX581",
+          "32MP Telephoto lens with Sony IMX709 (2X Optical Zoom)",
+          "6.7-inch 120 Hz AMOLED QHD Display",
+          "Snapdragon 8 Gen 2 Mobile Platform",
+          "16GB LPDDR5X RAM",
+          "256GB UFS4.0 Storage",
+          "5000 mAh Battery with 100W SUPERVOOC",
+          "In-Display Fingerprint Sensor"
+        ],
+        "reviews": [
+          {
+            "user": "User123",
+            "rating": 4,
+            "comment": "Good mobile product with an excellent camera.",
+            "date": "2023-10-31"
+          },
+          {
+            "user": "User456",
+            "rating": 5,
+            "comment": "Outstanding performance and build quality!",
+            "date": "2023-10-30"
+          }
+        ]
+      },
+      {
+        "product_id": "67890",
+        "title": "Samsung Galaxy S23 5G (Lavender, 8GB, 256GB Storage)",
+        "description": "Powerful mobile phone with an innovative camera system and eco-friendly design.",
+        "price": 79999,
+        "original_price": 95999,
+        "Currency" : "INR",
+        "image_urls": [
+          "images/Samsung/Samsung1.jpg",
+          "images/Samsung/Samsung2.jpg"
+        ],
+        "buy_link": "https://www.flipkart.com/samsung-galaxy-s23-5g-lavender-256-gb/p/itmfbae75e3840e1?pid=MOBGMFFXDQTGNWVK&lid=LSTMOBGMFFXDQTGNWVKWE3VH0&marketplace=FLIPKART&q=Samsung+Galaxy+S23+5G+%28Lavender%2C+8GB%2C+256GB+Storage%29&store=tyy%2F4io&srno=s_1_1&otracker=search&otracker1=search&fm=organic&iid=8ddd4d74-1887-477b-9a19-4520e439bd73.MOBGMFFXDQTGNWVK.SEARCH&ppt=pp&ppn=pp&ssid=sopx71vl0wo15m2o1698740810990&qH=225d5571bb993f09",
+        "availability": "In stock",
+        "ratings": {
+          "average_rating": 4.4,
+          "total_ratings": 982
+        },
+        "features": [
+          "More light for night photography",
+          "Eco-friendly design with recycled materials",
+          "Snapdragon 8 Gen 2 Mobile Platform",
+          "5G and 4G LTE Cellular Technology"
+        ],
+        "reviews": [
+          {
+            "user": "User789",
+            "rating": 4,
+            "comment": "Impressive camera performance in low light.",
+            "date": "2023-10-31"
+          },
+          {
+            "user": "User101",
+            "rating": 5,
+            "comment": "Eco-friendly and powerful mobile phone.",
+            "date": "2023-10-30"
+          }
+        ]
+      }
+    ],
+    "Fashion": [
+      {
+        "product_id": "6789",
+        "title": "Campus Sutra Men's Button Up Spread Collar Shirt for Casual Wear",
+        "description": "Stay stylish with this comfortable and fashionable checkered shirt.",
+        "price": 509,
+        "original_price": 1499,
+        "Currency" : "INR",
+        "image_urls": [
+          "images/CampusShirt/CampusShirt1.jpg",
+          "images/CampusShirt/CampusShirt2.jpg"
+        ],
+        "buy_link": "https://www.flipkart.com/campus-sutra-men-graphic-print-casual-dark-blue-shirt/p/itm290406f1ba57f?pid=SHTGZKKQRVHGKS3T&lid=LSTSHTGZKKQRVHGKS3TWO2XMP&marketplace=FLIPKART&cmpid=content_shirt_19580450293_x_8965229628_gmc_pla&tgi=sem,1,G,11214002,x,,,,,,,c,,,,,,,",
+        "availability": "In stock",
+        "ratings": {
+          "average_rating": 4.1,
+          "total_ratings": 403
+        },
+        "size": ["38", "40", "44", "46"],
+        "reviews": [
+          {
+            "user": "User1",
+            "rating": 5,
+            "comment": "Great shirt! Fits perfectly.",
+            "date": "2023-10-31"
+          },
+          {
+            "user": "User2",
+            "rating": 4,
+            "comment": "Good quality fabric and stylish design.",
+            "date": "2023-10-30"
+          }
+        ]
+      }
+    ],
+    "TVs": [
+      {
+        "product_id": "101",
+        "title": "SAMSUNG Crystal Vision 4K iSmart with Voice Assistant 138 cm (55 inch) Ultra HD (4K) LED Smart Tizen TV 2023 Edition (UA55CUE70AKLXL)",
+        "description": "Experience 4K Ultra HD with this smart TV featuring video calling and IOT sensors for light and camera control.",
+        "price": 43990,
+        "original_price": 64900,
+        "Currency" : "INR",
+        "image_urls": [
+          "images/SamsungTV/SamsungTV1.jpg",
+          "images/SamsungTV/SamsungTV2.jpg",
+          "images/SamsungTV/SamsungTV3.jpg"
+        ],
+        "buy_link": "https://www.flipkart.com/samsung-crystal-4k-ismart-series-138-cm-55-inch-ultra-hd-4k-led-smart-tizen-tv-2023/p/itm0aa2ff3b59214?pid=TVSGZF57Y3PJHUTA&lid=LSTTVSGZF57Y3PJHUTARVXEX5&marketplace=FLIPKART&q=SAMSUNG+Crystal+Vision+4K+iSmart+with+Voice+Assistant+138+cm+%2855+inch%29+Ultra+HD+%284K%29+LED+Smart+Tizen+TV+2023+Edition+%28UA55CUE70AKLXL%29&store=ckf%2Fczl&srno=s_1_1&otracker=search&otracker1=search&fm=organic&iid=23af38f5-7bd7-42d9-bca2-54f5f36a94e7.TVSGZF57Y3PJHUTA.SEARCH&ppt=pp&ppn=pp&ssid=qzbr3lp2zga5gfls1698740911198&qH=ed3b45e8a8faee0e",
+        "availability": "In stock",
+        "ratings": {
+          "average_rating": 4.4,
+          "total_ratings": 33963
+        },
+        "reviews": {
+          "5 star": 22053,
+          "4 star": 7363,
+          "3 star": 1612,
+          "2 star": 530,
+          "1 star": 2405
+        },
+        "features": {
+          "Picture": 4.4,
+          "Sound": 3.9,
+          "Connectivity": 4.2,
+          "Delivery & Installation": 4.4
+        }
+      },
+      {
+        "product_id": "102",
+        "title": "LG UR7500 108 cm (43 inch) Ultra HD (4K) LED Smart WebOS TV 2023 Edition with a5 AI Processor 4K Gen6 and 60Hz Refresh Rate, Magic remote capability (43UR7500PSC)",
+        "description": "Enjoy 4K Ultra HD entertainment with this LG smart TV featuring advanced AI processing and a 60Hz refresh rate.",
+        "price": 29990,
+        "original_price": 49990,
+        "Currency" : "INR",
+        "image_urls": [
+          "images/LGTV/LGTV1.jpeg.webp",
+          "images/LGTV/LGTV2.jpeg.webp",
+          "images/LGTV/LGTV3.jpeg.webp"
+        ],
+        "buy_link": "https://www.flipkart.com/lg-ur7500-108-cm-43-inch-ultra-hd-4k-led-smart-webos-tv-2023-a5-ai-processor-4k-gen6-60hz-refresh-rate-magic-remote-capability/p/itmcc1a412287611?pid=TVSGQQDYSCFGRX2F&lid=LSTTVSGQQDYSCFGRX2FVATNAW&marketplace=FLIPKART&q=LG+UR7500+108+cm+%2843+inch%29+Ultra+HD+%284K%29+LED+Smart+WebOS+TV+2023+Edition+with+a5+AI+Processor+4K+Gen6+and+60Hz+Refresh+Rate%2C+Magic+remote+capability+%2843UR7500PSC%29&store=ckf%2Fczl&srno=s_1_1&otracker=search&otracker1=search&fm=organic&iid=16e0d3af-f43f-48e3-b9d8-a5972a520437.TVSGQQDYSCFGRX2F.SEARCH&ppt=pp&ppn=pp&ssid=l3rh1wzaizaez9c01698740936133&qH=045b6eb298ca3712",
+        "availability": "In stock",
+        "ratings": {
+          "average_rating": 4.4,
+          "total_ratings": 21277
+        },
+        "reviews": {
+          "5 star": 14057,
+          "4 star": 4749,
+          "3 star": 970,
+          "2 star": 322,
+          "1 star": 1179
+        },
+        "features": {
+          "Picture": 4.4,
+          "Sound": 4.2,
+          "Connectivity": 4.3
+        }
+      }
+    ]
+  }
+}
